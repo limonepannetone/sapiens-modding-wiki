@@ -4,7 +4,7 @@ Materials control how surfaces look on models, and are assigned via names. Sapie
 
 ## How do they work?
 
-![](/images/materials/material_parameters.png)
+    `mat("appleBark", vec3(0.22,0.2,0.16) * 0.2, 1.0),`
 
 The image above shows the material parameters for the material used on the bark of an Apple Tree. It may look daunting, but don't worry. After reading this article you should understand it entirely. Here's what each number means:
 
